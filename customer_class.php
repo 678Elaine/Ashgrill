@@ -3,7 +3,7 @@
 /**
  * This class hanldes all the database functions 
  */
-require("../Settings/db_class.php");
+require("db_class.php");
 
 class customer_class  extends db_connection{
 
