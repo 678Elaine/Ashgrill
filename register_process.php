@@ -1,5 +1,5 @@
 <?php
-include("../Controllers/customer_controller.php");
+include("customer_controller.php");
 
 if(isset($_POST['register_auser'])){
 
